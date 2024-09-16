@@ -1,2 +1,2 @@
 # PowerBi-Dashboard
-n: This repository contains a collection of Power BI dashboard
+n: This repository contains a powerbi report of superstore
